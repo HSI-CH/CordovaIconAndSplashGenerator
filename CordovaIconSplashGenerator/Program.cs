@@ -117,7 +117,8 @@ namespace CordovaIconSplashGenerator
                 });
             }
             Console.WriteLine("Icon and Splash generation finished");
-            Console.Read();
+            Console.WriteLine("Press any key to close");
+            Console.ReadKey();
         }
 
         private static void CheckFile(FileInfo fi)
