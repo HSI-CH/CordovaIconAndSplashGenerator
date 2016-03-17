@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CordovaIconSplashGenerator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="rootPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\MobileResponder.CH\MobileResponder.Apps\MRKapoZH\MRKapoZH\res</Value>
+    </Setting>
+    <Setting Name="splashPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\MobileResponder.CH\MobileResponder.Apps\MRKapoZH\MRKapoZH\res\splash.png</Value>
+    </Setting>
+    <Setting Name="iconPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\MobileResponder.CH\MobileResponder.Apps\MRKapoZH\MRKapoZH\res\icon.png</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

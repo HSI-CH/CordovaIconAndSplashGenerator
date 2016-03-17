@@ -1,0 +1,6 @@
+c:\users\cvenzin\documents\visual studio 2015\Projects\CordovaIconSplashGenerator\CordovaIconSplashGenerator\bin\Debug\CordovaIconSplashGenerator.exe.config
+c:\users\cvenzin\documents\visual studio 2015\Projects\CordovaIconSplashGenerator\CordovaIconSplashGenerator\bin\Debug\CordovaIconSplashGenerator.exe
+c:\users\cvenzin\documents\visual studio 2015\Projects\CordovaIconSplashGenerator\CordovaIconSplashGenerator\bin\Debug\CordovaIconSplashGenerator.pdb
+c:\users\cvenzin\documents\visual studio 2015\Projects\CordovaIconSplashGenerator\CordovaIconSplashGenerator\obj\Debug\CordovaIconSplashGenerator.csprojResolveAssemblyReference.cache
+c:\users\cvenzin\documents\visual studio 2015\Projects\CordovaIconSplashGenerator\CordovaIconSplashGenerator\obj\Debug\CordovaIconSplashGenerator.exe
+c:\users\cvenzin\documents\visual studio 2015\Projects\CordovaIconSplashGenerator\CordovaIconSplashGenerator\obj\Debug\CordovaIconSplashGenerator.pdb
