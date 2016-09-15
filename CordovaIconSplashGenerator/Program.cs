@@ -117,8 +117,6 @@ namespace CordovaIconSplashGenerator
                 });
             }
             Console.WriteLine("Icon and Splash generation finished");
-            Console.WriteLine("Press any key to close");
-            Console.ReadKey();
         }
 
         private static void CheckFile(FileInfo fi)
@@ -228,14 +226,13 @@ namespace CordovaIconSplashGenerator
             Graphics grPhoto = Graphics.FromImage(bmPhoto);
             grPhoto.InterpolationMode =
                     InterpolationMode.HighQualityBicubic;
-
+            grPhoto.Clear(Color.FromArgb(Properties.Settings.Default.bgAlpha, Properties.Settings.Default.bgRed, Properties.Settings.Default.bgGreen, Properties.Settings.Default.bgBlue));
             grPhoto.DrawImage(imgPhoto,
                 new Rectangle(destX, destY, destWidth, destHeight),
                 new Rectangle(sourceX, sourceY, sourceWidth, sourceHeight),
                 GraphicsUnit.Pixel);
 
             grPhoto.Dispose();
-            bmPhoto.MakeTransparent();
             return bmPhoto;
         }
     }

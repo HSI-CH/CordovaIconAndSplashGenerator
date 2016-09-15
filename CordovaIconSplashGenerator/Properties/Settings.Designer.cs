@@ -58,5 +58,53 @@ namespace CordovaIconSplashGenerator.Properties {
                 this["iconPath"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("255")]
+        public int bgAlpha {
+            get {
+                return ((int)(this["bgAlpha"]));
+            }
+            set {
+                this["bgAlpha"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("255")]
+        public int bgRed {
+            get {
+                return ((int)(this["bgRed"]));
+            }
+            set {
+                this["bgRed"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("255")]
+        public int bgGreen {
+            get {
+                return ((int)(this["bgGreen"]));
+            }
+            set {
+                this["bgGreen"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("255")]
+        public int bgBlue {
+            get {
+                return ((int)(this["bgBlue"]));
+            }
+            set {
+                this["bgBlue"] = value;
+            }
+        }
     }
 }

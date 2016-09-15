@@ -11,5 +11,17 @@
     <Setting Name="iconPath" Type="System.String" Scope="User">
       <Value Profile="(Default)">D:\MobileResponder.CH\MobileResponder.Apps\MRKapoZH\MRKapoZH\res\icon.png</Value>
     </Setting>
+    <Setting Name="bgAlpha" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">255</Value>
+    </Setting>
+    <Setting Name="bgRed" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">255</Value>
+    </Setting>
+    <Setting Name="bgGreen" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">255</Value>
+    </Setting>
+    <Setting Name="bgBlue" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">255</Value>
+    </Setting>
   </Settings>
 </SettingsFile>
